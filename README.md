@@ -12,7 +12,7 @@ Mittels dem Qualitätsstandard der _Selbsthilfefreundlichkeit_ will **@elternble
 **Gemeinsam-Getrennterziehend** fördern und die Politik fordern.
 Ihre Fragen _(Issues)_ an die Politik oder die beteiligten Behörden regen zum neuen Handeln und Wirken bei Trennung oder Scheidung an.
 
-### Pull-Requests = neue Fragen stellen... 
+### New Issue = neue Fragen stellen... 
 _GitHub_ ist eine Plattform für vernetzte Entwicklung von Software-Projekten. 
 Wir nutzen nun diese Plattform um neue Fragen oder bestehende Fragen an die Politik bezogen auf Trennung oder Scheidung
 an die Politik und die beteiligten Fachbehörden zu stellen. Vieler Orts wird von Wahlprüfsteinen gesprochen.
